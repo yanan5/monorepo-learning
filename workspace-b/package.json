@@ -8,6 +8,6 @@
     "workspace-a": "1.0.0"
   },
   "scripts": {
-    "test": "echo from workspace-b"
+    "test": "echo from workspace-b $npm_package_version"
   }
 }

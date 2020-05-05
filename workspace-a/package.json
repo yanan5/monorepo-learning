@@ -7,6 +7,6 @@
     "cross-env": "5.0.5"
   },
   "scripts": {
-    "test": "echo from workspace-a"
+    "test": "echo from workspace-a $npm_package_version"
   }
 }
